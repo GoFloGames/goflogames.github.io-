@@ -1,0 +1,18 @@
+.fullscreen-container {
+  width: 100%;
+  height: 46px;
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  background-color: var(--dl-color-primary-4);
+}
+.fullscreen-text {
+  font-size: 25px;
+}
+
+
+
+
+
